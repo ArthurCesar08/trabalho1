@@ -1,0 +1,72 @@
+.Título{
+    font-size: 50px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+    color: #FFFFFF;
+}
+
+.foto{
+    height: 200px;
+    width: 200px;
+    border: 5px ridge #DEB887;
+    border-radius: 20px;
+}
+
+.foto:hover{
+    height: 220px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+.foto2{
+    height: 275px;
+    width: 275px;
+    border: 5px ridge #DEB887;
+    border-radius: 20px;
+}
+
+.foto2:hover{
+    height: 295px;
+    width: 295px;
+    border-radius: 20px;
+}
+
+.Junção{
+    display: inline-block;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.centralizarTítulo{
+    text-align: center;
+    display: inline-block;
+}
+
+.texto{
+    font-size: 30px;
+}
+
+.aviso{
+    font-size: 10px;
+}
+
+.Index{
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+.nomes{
+    font-size: 40px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+    color: #FFFFFF;
+}
+
+.fundo{
+    background: #F0FFFF;
+    background: -moz-linear-gradient(top, #F0FFFF 0%, #C59237 100%);
+    background: -webkit-linear-gradient(top, #F0FFFF 0%, #C59237 100%);
+    background: linear-gradient(to bottom, #F0FFFF 0%, #C59237 100%); 
+}
+
